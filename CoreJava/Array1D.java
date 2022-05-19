@@ -9,6 +9,7 @@ public class Array1D
 		percent[0] = 67.78;  // initialization
 		percent[3] = 87.18;
 		percent[5] = 87.18; 
+            percent[5] = 54.20;
 		
 		for(int i = 0 ; i < 5 ;i++) 
 		{
